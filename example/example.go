@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/lexkong/log"
-	"github.com/lexkong/log/lager"
+	"github.com/vladimirang/log"
+	"github.com/vladimirang/log/lager"
 )
 
 func main() {

@@ -5,9 +5,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/lexkong/lager"
 	"github.com/onsi/ginkgo/config"
 	"github.com/onsi/ginkgo/types"
+	"github.com/vladimirang/log/lager"
 )
 
 //SuiteStartSummary is a struct

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/lexkong/lager/chug"
 	"github.com/onsi/gomega/format"
 	"github.com/onsi/gomega/types"
+	"github.com/vladimirang/log/lager/chug"
 )
 
 func MatchLogEntry(entry chug.LogEntry) types.GomegaMatcher {
